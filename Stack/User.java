@@ -9,9 +9,7 @@ public class User {
         // System.out.println(st.peek());
         StackLL st = new StackLL();
         st.push(10);
-        st.push(20);
         System.out.println(st.pop());
-        System.out.println(st.peek());
 
     }
 }
